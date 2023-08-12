@@ -1,3 +1,8 @@
 BasedOnStyle: Google
 IndentWidth: 4
 ColumnsLimit: 0
+AlignTrailingComments: true
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+SpaceBeforeParens: ControlStatements
